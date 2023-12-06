@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartaProvisional", "CartaProbicional\CartaProvisional.csproj", "{28F48FFC-13C9-4FAD-B538-D32D2CF7B5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F48FFC-13C9-4FAD-B538-D32D2CF7B5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F48FFC-13C9-4FAD-B538-D32D2CF7B5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F48FFC-13C9-4FAD-B538-D32D2CF7B5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F48FFC-13C9-4FAD-B538-D32D2CF7B5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC94A75C-E8E4-477E-9FBD-251939CF70DF}
+	EndGlobalSection
+EndGlobal
